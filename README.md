@@ -46,7 +46,7 @@ You only need a standard installation of Python 3.x to run this system. No exter
 ```bash
 python main.py
 
-##Author
-**Maxwell Mensah
-**EL 162
-**FOE.41.006.110.25
+###Author
+*  **Maxwell Mensah
+*  **FOE.41.006.110.25
+*  **EL 162
